@@ -1,6 +1,6 @@
 # Vuejs-study
 
-> Projeto Teste Dpc Vue.js
+> Projeto Teste Vue.js
 
 ## Build Setup
 
