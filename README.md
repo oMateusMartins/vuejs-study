@@ -1,4 +1,4 @@
-# dpc-vue
+# Vuejs-study
 
 > Projeto Teste Dpc Vue.js
 
